@@ -1,0 +1,13 @@
+{
+  "name": "auto-lego-export-loader",
+  "version": "1.0.0",
+  "description": "webpack js loader for auto lego export",
+  "keywords": [
+    "webpack",
+    "loader",
+    "lego"
+  ],
+  "main": "index.js",
+  "author": "zhangpeng",
+  "license": "ISC"
+}
